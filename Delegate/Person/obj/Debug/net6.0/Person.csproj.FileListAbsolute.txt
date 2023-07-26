@@ -1,0 +1,12 @@
+/home/sarvar/Projects/Delegate/Delegate/Person/bin/Debug/net6.0/Person.deps.json
+/home/sarvar/Projects/Delegate/Delegate/Person/bin/Debug/net6.0/Person.dll
+/home/sarvar/Projects/Delegate/Delegate/Person/bin/Debug/net6.0/ref/Person.dll
+/home/sarvar/Projects/Delegate/Delegate/Person/bin/Debug/net6.0/Person.pdb
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.csproj.AssemblyReference.cache
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.AssemblyInfoInputs.cache
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.AssemblyInfo.cs
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.csproj.CoreCompileInputs.cache
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.dll
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/ref/Person.dll
+/home/sarvar/Projects/Delegate/Delegate/Person/obj/Debug/net6.0/Person.pdb
